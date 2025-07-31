@@ -140,7 +140,8 @@ The current system can be further improved and expanded in the following ways:
 * Support multilingual interfaces to cater to local authorities across regions.
 
 ---
-**Endpoints**
+**##Endpoints**
+
 Private endpoint
 https://private.au-syd.ml.cloud.ibm.com/ml/v4/deployments/nid/predictions?version=2021-05-01
 
