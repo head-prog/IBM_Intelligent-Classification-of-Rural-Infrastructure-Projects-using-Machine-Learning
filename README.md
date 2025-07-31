@@ -62,6 +62,8 @@ The classification task was handled using **AutoAI** within **IBM Watson Studio*
 * Logistic Regression
 
 The model with the best performance was selected based on accuracy and F1-score. Random Forest emerged as the most suitable model for this use case.
+<img width="1790" height="848" alt="image" src="https://github.com/user-attachments/assets/5e870db1-6e28-4e2c-8bfc-3f3a1abdc7d9" />
+
 
 ### Input Features Used for Training
 
@@ -107,6 +109,9 @@ The final model demonstrated strong classification capability, with the followin
 These results indicate that the system can reliably replace manual classification for a majority of cases.
 
 ---
+<img width="1836" height="869" alt="image" src="https://github.com/user-attachments/assets/519e26a7-a830-46dc-8eb0-bdf4ca826435" />
+<img width="1732" height="829" alt="image" src="https://github.com/user-attachments/assets/12033465-c1aa-4c1f-9f36-07a14b0a9c7f" />
+
 
 ## Key Achievements
 
