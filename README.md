@@ -152,7 +152,9 @@ The current system can be further improved and expanded in the following ways:
 ## Author
 
 **Vraj Sondagar**
+
 B.Tech in Computer Science Engineering
+
 ITM SLS Baroda University
 
 
